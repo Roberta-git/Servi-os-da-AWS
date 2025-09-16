@@ -34,5 +34,42 @@
 #### 4. Associar o Load Balancer
 
 * Associar o ALB ao ASC para a distribuição do tráfego entre elas e monitoramento da saúde.
+  
+
+
+## 2. Load Balancer
+
+ O Load Balancer é um serviço essencial na AWS para distribuir automaticamente o tráfego de entrada entre várias instâncias Ec2, garantindo disponibilidade e escabilidade nas aplicações. Quando um Load Balancer está configurado na AWS, ele recebe as conexões dos usuários e envia essas solicitações para as instâncias EC2 que fazem parte do grupo de destino. O balanceador monitora constantemente se essas instâncias estão saudáveis através dos "exames de saúde". Se alguma delas apresentar problema ou deixar de responder, o Load Balancer deixa de encaminhar tráfego para essa instância e utiliza apenas as que continuam operando corretamente. Quando a instância problemática volta a funcionar de forma adequada, ela é automaticamente reinserida na distribuição de tráfego. Dessa forma, o funcionamento do serviço é garantido mesmo que ocorram falhas em algum dos servidores, mantendo o site ou aplicação disponível para os usuários.
+
+
+ ### 2.1 Passo a passo para criar um Load Balancer
+
+ #### 1. Criação do Load Balancer
+
+ * No console da AWS, acesse a seção "Ec2" e depois, Load Balancer.
+ * Configure o nome, Internet-facing ou internal, rede VPC, subnets e zonas de disponibilidade.
+ 
+ #### 2. Configuração de Listeners e Target Groups
+
+ * Escolha um "listener" (porta de entrada).
+ * Crie um Target Group que receberão o tráfego do Load Balancer.
+
+
+ #### 3. Associação de alvos ao Target Group 
+
+ * Associe as instâncias Ec2 ao Target Group.
+ * Verifique se o status das instãncias estão "saudáveis".
+
+ #### 4. Testes
+
+ * Copie o DNS do Load Balancer, cole no navegador e verifique se há resposta.
+ * Caso não funcione, reveja as configurações dos grupos de segurança, subnet e a saúde das instâncias.
+
+ 
+
+
+
+  
+
 
   
