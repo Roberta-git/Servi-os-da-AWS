@@ -81,7 +81,9 @@
 
 
 
-## Com a realização deste trabalho, foi possível aprimorar as concepções acerca do uso do Auto Scaling Group e Load Balancer, além de conhecer mais sobre a configuração desses serviços.
+## Conclusão
+
+Com a realização deste trabalho, foi possível aprimorar as concepções acerca do uso do Auto Scaling Group e Load Balancer, além de conhecer mais sobre a configuração desses serviços.
 
  
 
