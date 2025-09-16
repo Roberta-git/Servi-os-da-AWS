@@ -13,7 +13,7 @@
 2. Load Balancer
    2.1 Passo a passo para criar um Load Balancer
 
-3. Conclusões
+3. Conclusão
 
 
 
