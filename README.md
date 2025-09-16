@@ -5,6 +5,19 @@
 
 
 
+## Índice 
+
+1. Auto Scaling Group
+   1.1 Passo a passo para criar um Auto Sacaling Group
+
+2. Load Balancer
+   2.1 Passo a passo para criar um Load Balancer
+
+3. Conclusões
+
+
+
+
 ## 1. Auto Scaling Group 
 
  Auto Sacaling Group é um serviço da AWS que permite criar e gerenciar automaticamente instâncias (Ec2) de acordo com a demanda do sistema. O ASG pode iniciar novas instâncias quando a carga aumentar, garantindo que o sistema tenha capacidade suficiente para atender os usuários, e pode encerrar as instâncias quando a demanda for menor, reduzindo os custos para recursos não utilizados.
@@ -64,6 +77,11 @@
 
  * Copie o DNS do Load Balancer, cole no navegador e verifique se há resposta.
  * Caso não funcione, reveja as configurações dos grupos de segurança, subnet e a saúde das instâncias.
+
+
+
+
+## Com a realização deste trabalho, foi possível aprimorar as concepções acerca do uso do Auto Scaling Group e Load Balancer, além de conhecer mais sobre a configuração desses serviços.
 
  
 
