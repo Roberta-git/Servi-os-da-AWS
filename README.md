@@ -102,7 +102,7 @@
 
 ## Conclusão
 
-Com a realização deste trabalho, foi possível aprimorar o conhecimento acerca dos serviços de Auto Scaling Group e Load Balancer da AWS, compreendendos seus conceitos fundamentais e aplicações.
+Com a realização deste trabalho, foi possível aprimorar o conhecimento acerca dos serviços de Auto Scaling Group e Load Balancer da AWS, compreendendo seus conceitos fundamentais e aplicações.
  
 
 
