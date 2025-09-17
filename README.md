@@ -8,12 +8,14 @@
 ## Índice 
 
 1. Auto Scaling Group
+
    1.1 Passo a passo para criar um Auto Sacaling Group
 
-2. Load Balancer
+3. Load Balancer
+   
    2.1 Passo a passo para criar um Load Balancer
 
-3. Conclusão
+5. Conclusão
 
 
 
