@@ -73,7 +73,7 @@
  * Associe as instâncias Ec2 ao Target Group.
  * Verifique se o status das instãncias estão "saudáveis".
 
- #### 4. Testes
+ #### 4. Verificações
 
  * Copie o DNS do Load Balancer, cole no navegador e verifique se há resposta.
  * Caso não funcione, reveja as configurações dos grupos de segurança, subnet e a saúde das instâncias.
