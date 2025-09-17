@@ -45,7 +45,7 @@
 * Configura a capacidade míninma, máxima e desejada das instâncias.
 
 
- <img src=""  alt="" width="700"/>
+ <img src="https://github.com/user-attachments/assets/d73ec4a8-0108-4928-991e-18982ce24764"  alt="" width="700"/>
 </p> 
 
 
