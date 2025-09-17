@@ -74,7 +74,7 @@
  * Configure o nome, Internet-facing ou internal, rede VPC, subnets e zonas de disponibilidade.
 
 
- <img src=""  alt="" width="700"/>
+ <img src="https://github.com/user-attachments/assets/333005e6-00ac-438d-a577-b4d76336440a"  alt="" width="700"/>
 </p> 
 
 
