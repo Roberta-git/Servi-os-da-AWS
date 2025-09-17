@@ -33,11 +33,22 @@
 * Configure a instância Ec2 que será usada (tipo, gurpo de segurança, user data, AMI, par de chaves).
 
 
+ <img src=""  alt="" width="700"/>
+</p> 
+
+
+
 #### 2. Criar o ASG 
 
 * Escolha o Launch template que foi criado.
 * Associe as subnetes onde as instâncias serão criadas.
 * Configura a capacidade míninma, máxima e desejada das instâncias.
+
+
+ <img src=""  alt="" width="700"/>
+</p> 
+
+
 
 #### 3. Criar regras de Scaling
 
@@ -61,6 +72,12 @@
 
  * No console da AWS, acesse a seção "Ec2" e depois, Load Balancer.
  * Configure o nome, Internet-facing ou internal, rede VPC, subnets e zonas de disponibilidade.
+
+
+ <img src=""  alt="" width="700"/>
+</p> 
+
+
  
  #### 2. Configuração de Listeners e Target Groups
 
