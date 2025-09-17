@@ -33,7 +33,7 @@
 * Configure a instância Ec2 que será usada (tipo, gurpo de segurança, user data, AMI, par de chaves).
 
 
- <img src=""  alt="" width="700"/>
+ <img src="https://github.com/user-attachments/assets/31efb97b-ced6-4156-b0ef-9a960f157a9c"  alt="" width="700"/>
 </p> 
 
 
